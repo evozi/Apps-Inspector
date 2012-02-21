@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<LinearLayout
+        android:id="@+id/button_bar"
+        style="@android:style/ButtonBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        >
+        
+        <Button
+            android:id="@+id/refresh_button"
+            android:text="@string/rescan"
+            android:onClick="onRefreshButtonClick"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/list_container"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:layout_above="@id/button_bar"
+        >
+<ListView 
+	android:id="@+id/listview"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:focusable="true"
+	android:cacheColorHint="#00000000"
+	android:layout_margin="6dp"
+	android:divider="#00000000"
+	android:drawSelectorOnTop="true"
+  	/>
+
+<TextView
+android:id="@android:id/empty"
+android:text="@string/no_ad_apps"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+/>
+</LinearLayout>
+</RelativeLayout>
+

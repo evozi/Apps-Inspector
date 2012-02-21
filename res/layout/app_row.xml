@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="5.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@+id/AppIcon"  android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_margin="2.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:src="@drawable/ic_launcher" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="4.0dip" android:layout_marginLeft="10.0dip" android:layout_toRightOf="@+id/AppIcon" android:layout_alignParentTop="true">
+        <TextView android:textSize="15.0dip" android:textStyle="bold" android:id="@+id/appName" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="App Title" />
+        <TextView android:textSize="13.0dip"  android:id="@+id/DetectedAddons" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Detected, Addons" />
+    </LinearLayout>
+</RelativeLayout>
+    

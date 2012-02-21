@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Apps Inspector</string>
+    <string name="rescan">Rescan</string>
+    <string name="no_ad_apps">No installed apps with framework detected!</string>
+</resources>
