@@ -55,4 +55,4 @@ NOTE : Yes, I'm aware of Addons Detector but this app will be open source and wi
 
 @author Evozi <email@evozi.com>
 
-[1]: http://evozi.com/public/screenshot-1323375690375.png
+[1]: http://apps.evozi.com/static/images/git/apps-inspector.png
