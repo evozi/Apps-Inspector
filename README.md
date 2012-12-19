@@ -4,7 +4,6 @@ Apps Inspector detects frameworks used by your installed applications. Find out 
 
 This is a simple Android application which detects other installed applications which appear to use known frameworks and offers the user the ability to easily uninstall them and view the info.
 
-![Example Image][1]
 
 **Now it only detect , advertisement framework**
 AdKnowledge
@@ -55,4 +54,19 @@ NOTE : Yes, I'm aware of Addons Detector but this app will be open source and wi
 
 @author Evozi <email@evozi.com>
 
-[1]: http://apps.evozi.com/static/images/git/apps-inspector.png
+License
+-------
+
+    Copyright 2012 Evozi
+    
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+    
+    http://www.apache.org/licenses/LICENSE-2.0
+    
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
