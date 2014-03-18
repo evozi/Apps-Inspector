@@ -37,36 +37,34 @@ Optimized the code
 List sorting
 Menu
 About Section
-and lastly UI designing 
+and lastly UI designing
 
 **Uses Permissions :**
 None
 
-
-I'm looking for someone that willing to develop/give a fork for this app.
-
-**To developer :** 
-You are allow to download/view the source code and make any changes because this app still need alot of improvement and I'm not good in Java still. 
-
-and also do let me know if you find any bugs or have any suggestions.
-
-NOTE : Yes, I'm aware of Addons Detector but this app will be open source and will have no airpush or advertisement in this app and also this app will be continue develop by you (the community) and improvement being made.
-
-@author Evozi <email@evozi.com>
+NOTE : This will be open source and will have no airpush or advertisement in this app and also this app will be continue develop by you (the community) and improvement being made.
 
 License
 -------
 
-    Copyright 2012 Evozi
-    
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-    
-    http://www.apache.org/licenses/LICENSE-2.0
-    
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+The MIT License (MIT)
+
+Copyright (c) 2014 Evozi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
