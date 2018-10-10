@@ -1,11 +1,11 @@
 Apps Inspector
 ===================
-Apps Inspector detects frameworks used by your installed applications. Find out exactly what your apps are doing. Now you are able to know what advertising agencies or developers used in their app, and what tools they have integrated.
+Apps Inspector detects the ads platform used by your installed applications. You are able to know what advertising agencies developers used in their app, and what tools they have integrated.
 
 This is a simple Android application which detects other installed applications which appear to use known frameworks and offers the user the ability to easily uninstall them and view the info.
 
 
-**Now it only detect , advertisement framework**
+**Currently it detects the following advertisement framework**
 AdKnowledge
 AdMob
 AdSense
@@ -33,16 +33,16 @@ Vdopia
 Zest
 
 **TODO :**
-Optimized the code
+Code optimization
 List sorting
 Menu
 About Section
-and lastly UI designing
+UI upgrade
 
 **Uses Permissions :**
 None
 
-NOTE : This will be open source and will have no airpush or advertisement in this app and also this app will be continue develop by you (the community) and improvement being made.
+NOTE : This application will remain open-source and will contain no ads; further development and improvements to the app will be made by you (the community).
 
 License
 -------
